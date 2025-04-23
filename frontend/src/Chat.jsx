@@ -36,7 +36,7 @@ const Chat = () => {
   return (
     <div className="flex flex-col h-screen bg-gray-100 dark:bg-gray-900">
       <div className="p-4 bg-green-600 text-white dark:bg-green-700">
-        Two User Chat App 🗨️
+        Chat-Application
       </div>
 
       <div className="flex justify-between items-center p-3 bg-white dark:bg-gray-800">
